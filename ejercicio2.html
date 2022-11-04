@@ -5,11 +5,27 @@
     <body>
         <h1>Comprobar mayoría de edad</h1>
             <p> Pide la edad y si es mayor de 18 años indica que ya puede conducir. </p>
+            <p id="demo"></p>
         <script>
             
             // Solicita edad por teclado
         
-
+       
+       do{
+        var edad=prompt('Dime la edad')
+       }
+        while (isNaN(edad) || edad.trim() =='')
+        
+        if (edad >= 18)
+            {
+                //window.alert('Ya puede conducir')
+                document.getElementById("demo").innerHTML="Ya puede conducir porque tiene "+edad+" años";
+            }
+            else
+            {
+               // window.alert('Aún no puede conducir')
+                document.getElementById("demo").innerHTML="Aún no puede conducir porque tiene "+edad+" años";
+            }
                 // Comprobamos si la edad es la de un menor de edad.        
                 
 
