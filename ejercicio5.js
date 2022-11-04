@@ -35,7 +35,9 @@ function obtenerCalificacion(nota)
 
             return calificacion;
 }
-
+/**
+ * Comprueba la mayoria de edad en la página HTML.
+ */
 function comprobarEdad()
 {
     var edad=Number.parseInt(document.getElementById("edad").value);
@@ -49,7 +51,9 @@ function comprobarEdad()
     document.getElementById("txtEdad").innerHTML=txtEdad;
     
 }
-
+/**
+ * Escribe la calificación asociada a la nota en la página HTML.
+ */
 function averiguarCalificacion()
 {
     var nota=Number.parseInt(document.getElementById("nota").value);

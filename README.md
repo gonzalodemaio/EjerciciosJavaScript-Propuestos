@@ -15,3 +15,14 @@ Alumno:
     - 9-10: Sobresaliente
 4. Repite el ejercicio anterior utilizando la estructura **switch"*.
 5. Convierta el código de los ejercicios 2 y 3 en funciones y almacenelos en un fichero llamado **ejercicio5.js**.
+6. Realice una aplicación que permita averiguar un número secreto entre 0 y 10, permitiendo que el usuario pueda escoger el número de intentos.
+7. Calculo de notas medias.
+8. Bucles: tablas de multiplicar con bucle *for*.
+
+## Referencias:
+- [W3Schools JavaScript](https://www.w3schools.com/js/).
+- [Apuntes Universidad Computense Madrid Javascript](https://www.fdi.ucm.es/profesor/jpavon/web/24-javascript.pdf).
+- [Más apuntes Javascript](https://www.fdi.ucm.es/profesor/fpeinado/courses/webtech/Tema5-JavaScript1.pdf).
+- [Ejercicios de iniciación a Javascript](https://tutobasico.com/basicos-javascript/).
+- [Ejercicios de Javascript](https://www.uv.es/mplac/LaNau/4_Javascript/Ejercicios.htm).
+- [Ejercicios resueltos Javascript](https://www.programacionfacil.org/cursos/javascript/javascript_ejercicios_resueltos_1.html).
