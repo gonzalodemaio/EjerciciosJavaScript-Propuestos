@@ -14,3 +14,4 @@ Alumno:
     - 7-9: Notable.
     - 9-10: Sobresaliente
 4. Repite el ejercicio anterior utilizando la estructura **switch"*.
+5. Convierta el código de los ejercicios 2 y 3 en funciones y almacenelos en un fichero llamado **ejercicio5.js**.
