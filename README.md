@@ -18,6 +18,8 @@ Alumno:
 6. Realice una aplicación que permita averiguar un número secreto entre 0 y 10, permitiendo que el usuario pueda escoger el número de intentos.
 7. Calculo de notas medias.
 8. Bucles: tablas de multiplicar con bucle *for*.
+9. Bucles: tablas de multiplicar con bucle *do-while*.
+10. Bucles: tablas de multiplicar con bucle *while*.
 
 ## Referencias:
 - [W3Schools JavaScript](https://www.w3schools.com/js/).
