@@ -20,6 +20,7 @@ Alumno:
 8. Bucles: tablas de multiplicar con bucle *for*.
 9. Bucles: tablas de multiplicar con bucle *do-while*.
 10. Bucles: tablas de multiplicar con bucle *while*.
+11. 10. Bucles: tablas de multiplicar con bucle *for-in* (Necestiamos un **array** de números).
 
 ## Referencias:
 - [W3Schools JavaScript](https://www.w3schools.com/js/).
